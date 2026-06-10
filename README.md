@@ -17,6 +17,11 @@ Este es mi primer proyecto en GitHub.
 - Nombre: Tu Nombre
 - Carrera: Ingeniería en Informática
 
+## Tecnologías usadas
+
+- Git
+- GitHub
+- Visual Studio Code
 ## Descripción del proyecto
 
 Este proyecto fue creado para aprender a colaborar
