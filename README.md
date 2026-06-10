@@ -22,3 +22,7 @@ Este es mi primer proyecto en GitHub.
 - Git
 - GitHub
 - Visual Studio Code
+## Descripción del proyecto
+
+Este proyecto fue creado para aprender a colaborar
+con Git y GitHub de forma efectiva.
